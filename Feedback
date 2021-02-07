@@ -1,0 +1,9 @@
+Just going to put the feedback and mark here.
+
+Mark : 5/5
+
+Feedback : Really well structured code and detailed analysis of results via computation times. Good use of MPI library functions.
+           I don't actually have that much to comment on negatively regarding the use of MPI libraries, hence why 5/5 is
+           a deserved mark. Good use of Broadcasting and Gathering in Exercise 2. Same with the use of Reduce in Exercise
+           3. Although your code was well-written, I think you should definitely make sure to comment on what you're doing
+           because it was hard to follow at times.
